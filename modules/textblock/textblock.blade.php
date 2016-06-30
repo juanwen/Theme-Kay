@@ -1,7 +1,7 @@
 <!-- about -->
 <tr bgcolor="1abbfe"><td height="40"></td></tr>
 <td bgcolor="1abbfe">
-    <table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mainContent" bgcolor="1abbfe">
+    <table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mainContent" bgcolor="1abbfe" data-module="textblock">
         <tbody>
             <tr>
                 <td align="center" style="color: #fff; font-size: 2.5em; font-family: 'Century Gothic';">

@@ -179,6 +179,9 @@ table.social-icons {
 	<!--style-->
 </head>
 <body>
+	
+@include('projects.controlbar')
+	
 <table>
 			<tr>
 				<td height="40" class="top"></td>

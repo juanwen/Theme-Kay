@@ -3,9 +3,9 @@
     <tr><td bgcolor="#fff" height="20"></td></tr>
     <tr><td bgcolor="#fff" height="40"></td></tr>
         <td bgcolor="#fff">
-                <table width="600" border="0" align="center" cellpadding="0" cellspacing="0" class="mainContent">
+                <table width="600" border="0" align="center" cellpadding="0" cellspacing="0" class="mainContent" data-module="services" >
                     <tbody>
-                        <tr>    
+                        <tr>
                             <td align="center" mc:edit="title1" class="main-header" style="color: #E6842D; font-size: 2.5em; font-family: 'Century Gothic';">
                                 {{ $header }}
                             </td>
@@ -39,7 +39,7 @@
                                     <td height="60">
                                     </td>
                                 </tr>
-                                
+
                             </table>
                             <table border="0" width="8" height="10" align="left" cellpadding="0" cellspacing="0">
                                 <tr>
@@ -48,20 +48,20 @@
                                 </tr>
                             </table>
                             <table border="0" width="370" align="left" class="news-image" cellpadding="0" cellspacing="0">
-                            
+
                                 <tr style="background:url(images/n.jpg) no-repeat 0px 0px #E6842D; background-size:cover;" height="260">
                                     <td style="color:#FFFFFF; font-size:1em; text-align:center; font-family:Lucida Sans; line-height:1.8em;">
-                                    
+
                                     </td>
                                 </tr>
                                 <tr><td height="8"></td></tr>
-                                
+
                             </table>
                         </td>
                     </tr>
                 @endforeach
                     <tr><td bgcolor="#fff" height="20"></td></tr>
-                    
+
                 </table>
                 </td>
     <tr><td bgcolor="#fff" height="60"></td></tr>

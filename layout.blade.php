@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html  ng-app="app">
 <head>
 <title>Our</title>
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Happy New year Newsletter templates, Email Templates, Newsletters, Marketing  templates, 
+<meta name="keywords" content="Happy New year Newsletter templates, Email Templates, Newsletters, Marketing  templates,
 	Advertising templates, free Newsletter" />
 	<!--style-->
 		<style type="text/css">
@@ -18,7 +18,7 @@
 }
 			body{
 			width:100%;
-			background-image:url('images/bg.png');
+			background-image:url('/templates/3/images/bg.png');
 			background-repeat:repeat;
 			margin:0;
 			padding:0;
@@ -31,13 +31,13 @@
 		.container{ width: 754px !important;}
 		}
 		@media only screen and (max-width: 768px){
-			
+
             /*------ top header ------ */
 			.header-top {width: 700px;}
             .header-bg{width: 440px !important; height: 10px !important;}
             .main-header{line-height: 28px !important;}
-           
-            
+
+
             /*----- --features ---------*/
             .feature-middle{width: 400px !important; text-align: center !important;}
             .feature-img{height: 437px !important;}
@@ -45,7 +45,7 @@
 			.about-right {width: 289px;}
             .container{ width: 654px !important;}
              .container-middle{width: 590px !important;}
-            
+
 			.member {width: 13px;}table.main-img {
     height: 400px;
 }
@@ -174,14 +174,14 @@ table.social-icons {
     width: 69%;
 }
 		}
-			
+
 		</style>
 	<!--style-->
 </head>
 <body>
-	
+
 @include('projects.controlbar')
-	
+
 <table>
 			<tr>
 				<td height="40" class="top"></td>
@@ -200,16 +200,16 @@ table.social-icons {
 								<tr>
 									<td>
 										<table border="0" width="650" align="center" cellpadding="0" cellspacing="0" class="container-middle">
-											
+
 											<tr><td height="22"></td></tr>
-											
+
 												<tr class="top-header-left">
 													<td align="center">
 													<a class="logo" href="#" style="font-size:3.5em;color: #69B922;text-decoration:none;font-family:Century Gothic;font-weight:216; letter-spacing:2px;">Our <span style="color:#F08A01;">Nation</span></a>
 
 													</td>
 												</tr>
-										
+
 										</table>
 									</td>
 									<tr><td height="20"></td></tr>
@@ -223,19 +223,19 @@ table.social-icons {
 			<tr>
 				<td  width="600" style="text-align:center;">
 				    <table style="border-collaps:collaps; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-												  
+
 					<tr bgcolor="#1abbfe">
 	                	<td>
 	                		<table border="0" width="600" align="center" cellpadding="0" cellspacing="0" class="container-middle">
-							
+
 								<tbody><tr>
 									<td>
 										<table class="menu" style="margin: 0 auto; border-collaps:collaps; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="center" border="0" cellpadding="0" cellspacing="0">
-											
-											<tbody><tr>                
+
+											<tbody><tr>
 
 											  <td align="center" style="text-align:left; font-size:15px; font-family:Maven Pro; font-weight:500; color: #ffffff; " class="menu" height="48">
-												
+
 												<a href="#" style="text-align:center; font-size:15px; font-family: Candara; font-weight:500; color: #ffffff; text-decoration:none;letter-spacing:1px;">Home</a>
 												<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 												<a href="#" style="text-align:center; font-size:15px; font-family: Candara; font-weight:500; color: #ffffff; text-decoration:none;letter-spacing:1px;">Speech</a>
@@ -245,19 +245,19 @@ table.social-icons {
 												<a href="#" style="text-align:center; font-size:15px; font-family: Candara; font-weight:500; color: #ffffff; text-decoration:none;letter-spacing:1px;">News</a>
 												<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 												<a href="#" style="text-align:center; font-size:15px; font-family: Candara; font-weight:500; color: #ffffff; text-decoration:none;letter-spacing:1px;">Contact</a>
-											   
+
 											  </td>
-											  
+
 											</tr>
-									  
+
 										</tbody></table>
 									</td>
 								</tr>
-													
+
 							</tbody></table>
 						</td>
 					</tr>
-													
+
 												</table>
 											  </td>
 											</tr>
@@ -266,14 +266,14 @@ table.social-icons {
 
 							<tr>
 								<td>
-									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="background:url(images/main.jpg); background-size: 100% 100%;" height="500" class="main-img">	
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="background:url(/templates/3/images/main.jpg); background-size: 100% 100%;" height="500" class="main-img">
 <tbody><tr>
 <td> </td>
 </tr>
 </tbody></table>
 								</td>
 							</tr>
-							
+
 							<!--//banner-->
 
 							<!--banner-bottom-->
@@ -291,7 +291,7 @@ table.social-icons {
 						<td bgcolor="#0492CE">
 							<table width="560" border="0" align="center" cellpadding="0" cellspacing="0" class="footer">
 								<tr><td height="30"></td></tr>
-								<tr> 
+								<tr>
 									<td>
 										<!--footer-logo -->
 										<table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="logo">
@@ -312,26 +312,26 @@ table.social-icons {
 															<tr>
 																<td>
 																	<a href="#" style="display:block;">
-																		<img src="images/f1.png" width="24" height="24" alt="">
+																		<img src="/templates/3/images/f1.png" width="24" height="24" alt="">
 																	</a>
 																</td>
 																<td width="2">
 																</td>
 																<td>
 																	<a href="#" style="display:block;">
-																		<img src="images/f2.png" width="24" height="24" alt="">
+																		<img src="/templates/3/images/f2.png" width="24" height="24" alt="">
 																	</a>
 																</td>
 																<td width="2">
 																</td>
 																<td>
 																	<a href="#" style="display:block;">
-																		<img src="images/f3.png" width="24" height="24" alt="">
+																		<img src="/templates/3/images/f3.png" width="24" height="24" alt="">
 																	</a>
 																</td>
 															</tr>
 														</tbody>
-													</table>	
+													</table>
 												</td>
 											</tr>
 										</table><!--//social-icons-->
@@ -356,8 +356,8 @@ table.social-icons {
 						</td>
 					</tr>
 					<!--footer-->
-										</tbody>	
-									</table>		
+										</tbody>
+									</table>
 								</td>
 		</tr>
 		</tbody>
@@ -367,6 +367,6 @@ table.social-icons {
 				<td height="40" class="top"></td>
 			</tr>
 			</table>
-			
+
 </body>
 </html>
